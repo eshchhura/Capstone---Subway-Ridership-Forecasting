@@ -95,8 +95,11 @@ Capstone---Subway-Ridership-Forecasting/
 │
 ├── Reports/
 │   └── Capstone Two - Project Proposal.pdf
+|   └── MTA Hourly Ridership Forecasting Final Report.pdf
+|   └── MTA_Ridership_Forecasting_Slide_Deck.pptx
 │
 └── README.md
+└── model_metrics.md
 ```
 
 ---
