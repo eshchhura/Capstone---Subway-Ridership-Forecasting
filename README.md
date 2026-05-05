@@ -68,7 +68,7 @@ Each raw row represents a station, hour, fare class, and payment method. Since t
 ## 4. Repository Structure
 
 ```text
-Capstone---Subway-Ridership-Forecasting/
+MTA-Subway-Ridership-Forecasting/
 │
 ├── CSVs/
 │   ├── processed_data.csv
